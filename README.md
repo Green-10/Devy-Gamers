@@ -1,4 +1,4 @@
-# A League About Nothing #
+# Devy Gamers #
 
 ## Table of Contents
 
@@ -37,8 +37,7 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-__Jacob Alley__
-> jalley3@gmail.com
+__Greeny__
 
 <br>
 
@@ -107,16 +106,15 @@ If a team does not pay their dues by the designated date they are not eligible t
    RB | 2 | No Limit
    WR | 3 | No Limit
    TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 2 | No Limit
+   FLEX (RB/WR/TE) | 3 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 20 | No Limit
-   IR | 2 | No Limit
 
 ## __Section V - Free Agency & Trading__ ##
 
 ### Free Agency ###
 
-- Each team will receive $200 for a Free Agency Aquisition Budget
+- Each team will receive $150 for a Free Agency Aquisition Budget
 - Minimum bid to get a FA off waivers is $0
 - Per transaction fee is $0
 - FAAB dollars are tradeable
@@ -129,7 +127,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Trades will be processed right away, if collusion is suspected file a report with the commissioner.
 - During the offseason trading is still allowed.
 - Trade deadline begins as soon as the first playoff game starts.
-- You must have paid that years fee for any draft picks that you trade. So if you trade a draft pick that is for the year 2022, then you must have paid the league dues for the 22 season. 
+- You must have paid that years fee for any draft picks that you trade. So if you trade a draft pick that is for the year 2023, then you must have paid the league dues for the 23 season. 
 
 <br><br>
 
@@ -167,8 +165,8 @@ If a team does not pay their dues by the designated date they are not eligible t
 ## __Section VIII - Schedule__ ##
 
 ### Regular Season Schedule ###
-- The regular season lasts from week 1 to week 13.
-- Playoffs begin week 14 with the championship game occuring week 16.
+- The regular season lasts from week 1 to week 14.
+- Playoffs begin week 15 with the championship game occuring week 17.
 
 <br><br>
 
@@ -187,7 +185,7 @@ If a team does not pay their dues by the designated date they are not eligible t
     <tr>
     <td>Passing</td>
     <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
-    <td>.04<br>-2<br>6<br>-4</td>
+    <td>.04<br>-4<br>6<br>2</td>
   0  </tr>
      <tr>
         <td>Rushing</td>
